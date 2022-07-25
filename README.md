@@ -1,7 +1,5 @@
 # About Me
 
-<img src="https://giffiles.alphacoders.com/347/34787.gif"/>
-
 > :bulb: **Short Description:** Student interested in <b>Programming</b>, <b>Cyber Security</b>, <b>Language Learning</b> and <b>Video Editing</b>\
 > :fire: **Skills:** Web Development, Ethical Hacking, Kernel Development, Scripting\
 > :heart_on_fire: **Future Skills:** Blockchain Development, Web3.0, Exploit Development\
