@@ -4,7 +4,7 @@
 > :fire: **Skills:** Web Development, Ethical Hacking, Kernel Development, Scripting\
 > :love_you_gesture: **Hobbies:** Languages, Japan, Anime, Video Editing, Music, Running\
 > :crossed_flags: **Languages:** Slovenian, Italian, English, Russian, Japanese\
-> 📝 **Social Media:** <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a>, <a href="http://kevintheadminman.epizy.com">Personal Website</a>, <a href="https://www.instagram.com/kevinj____/">Instagram</a>, <a href="https://tryhackme.com/p/Osamu">TryHackMe</a>
+> 📝 **Social Media:** <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a>, <a href="http://osamu-san.42web.io/">Personal Website</a>, <a href="https://www.instagram.com/kevinj____/">Instagram</a>, <a href="https://tryhackme.com/p/Osamu">TryHackMe</a>
 ***
 
 # Portfolio🔥
