@@ -1,19 +1,22 @@
-# About Me
+# Projects
+  - <a href="http:osamu-san.42web.io/">Personal Website</a>
+  - <a href="https://github.com/osamu-kj/OpenRhythmic">OpenRhytmic</a>
+    - An open source rhythm game built on top of unity (C#)
+  - <a href="https://github.com/osamu-kj/NetboxSimplified">Netbox Simplified</a>
+    - Simplified version of Netbox that is intended for smaller network infrastructures and is not so "complex" and "huge"
+  - <a href="https://github.com/osamu-kj/KernelDrivers">My Kernel Drivers</a>
+    - Simple testing ground for my Linux device drivers
+  - <a href="https://github.com/osamu-kj/7SegmentCSS">7 Segment CSS</a>
+    - Website showing the current UNIX timestamp in 7Segments (in CSS)
+    - <a href="https://segmentcsshosting.web.app">🔴Demo Link</a>
+  - <a href="https://github.com/osamu-kj/RuntimeMessageRouting">Runtime Message Routing - Apache Camel</a>
+    - Solution I built to solve a major issue I encountered when dealing with dynamic routing in Apache Camel
+  - <a href="https://image-editor-pi.vercel.app/">Image Editor</a>
+    - Small project built on top of React and Sanity.io that allows you to store images online and edit them
+  - <a href="https://chat-app-gamma-beige.vercel.app">Chat App</a>
+    - Small project built on top of React and Google Firebase that (as the name suggests) allows you to chat with other people
+  - <a href="https://github.com/osamu-kj/StopBloat/">Stop Bloat</a>
+    - Python script that is meant to automate the process of removing your android bloatware (from a linux machine) 
+  - <a href="https://github.com/osamu-kj/2DMathExpressions">2D Math Expressions</a> 
+    - Programming challenge that converts given math expression (string) into a tree and displays it to the end user
 
-> :bulb: **Short Description:** Student interested in <b>Programming</b>, <b>Cyber Security</b>, <b>Language Learning</b> and <b>Video Editing</b>\
-> :fire: **Skills:** Web Development, Ethical Hacking, Kernel Development, Scripting\
-> :love_you_gesture: **Hobbies:** Languages, Japan, Anime, Video Editing, Music, Running\
-> :crossed_flags: **Languages:** Slovenian, Italian, English, Russian, Japanese\
-> 📝 **Social Media:** <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a>, <a href="http://osamu-san.42web.io/">Personal Website</a>, <a href="https://www.instagram.com/kevinj____/">Instagram</a>, <a href="https://tryhackme.com/p/Osamu">TryHackMe</a>
-***
-
-# Portfolio🔥
-
-| Project      | Description |
-| ----------- | ----------- |
-| <a href="http://osamu-san.42web.io/">Personal Website</a>      | Updating my portfolio website **(update still not online), for now only the old version**</b> |
-| <a href="https://github.com/osamu-kj/RuntimeMessageRouting">Runtime Message Routing - Apache Camel</a> | Solution I built to solve a major issue I encountered when dealing with dynamic routing in Apache Camel. |
-| <a href="https://image-editor-pi.vercel.app/">Image Editor</a> | Small project built on top of React and Sanity.io that allows you to store images online and edit them |
-| <a href="https://chat-app-gamma-beige.vercel.app/">Chat App</a> | Small project built on top of React and Google Firebase that (as the name suggests) allows you to chat with other ppl. | 
-| <a href="https://github.com/osamu-kj/StopBloat">Stop Bloat</a> | Python script that is meant to automate the process of removing your android bloatware (from a linux machine) | 
-| <a href="https://github.com/osamu-kj/2DMathExpressions">2DMathExpressions</a> | Programming challenge that converts given math expression (string) into a tree and displays it to the end user | 
