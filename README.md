@@ -1,6 +1,5 @@
 # Projects
-  - <b><a href="http:osamu-san.42web.io/">Personal Website</a></b>
-  - <b><a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
+  - <b><a href="http:osamu-san.42web.io/">Personal Website</a> | <a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
   - <a href="https://github.com/osamu-kj/OpenRhythmic">OpenRhytmic</a>
     - An open source rhythm game built on top of unity (C#)
   - <a href="https://github.com/osamu-kj/NetboxSimplified">Netbox Simplified</a>
