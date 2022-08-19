@@ -1,7 +1,7 @@
 # Projects
   - <b><a href="http:osamu-san.42web.io/">Personal Website</a> | <a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
   - <a href="https://github.com/osmau-kj/0xdeadbeef">0xdeadbeef</a>
-    - Programming language I've been working on as a hobby recently. Built with old-school in mind :3
+    - Programming language I've been working on as a hobby recently. Built with old-school syntax in mind :3
   - <a href="https://github.com/osamu-kj/OpenRhythmic">OpenRhytmic</a>
     - An open source rhythm game built on top of unity (C#)
   - <a href="https://github.com/osamu-kj/NetboxSimplified">Netbox Simplified</a>
