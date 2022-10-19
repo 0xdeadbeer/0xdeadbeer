@@ -2,6 +2,8 @@
 >  - <b><a href="http:osamu-san.42web.io/">Personal Website</a> | <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a> | <a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
   - <a href="https://github.com/osamu-kj/0xdeadbeef">0xdeadbeef</a>
     - Programming language I've been working on as a hobby recently. Built with old-school syntax in mind :3
+  - <a href="https://github.com/osamu-kj/donut.c">donut.c</a>
+    - My rewritten version of donut.c (added more shapes like a cube and a pyramid)
   - <a href="https://github.com/osamu-kj/2DMathExpressions">2D Math Expressions</a>
     - <a href="https://xpression-c57ed.web.app/">🔴 Demo Link</a> 
     - Programming challenge that converts given math expression (string) into a tree and displays it to the end user
