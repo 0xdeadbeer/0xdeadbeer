@@ -9,8 +9,6 @@
   - <a href="https://github.com/osamu-kj/2DMathExpressions">2D Math Expressions</a>
     - <a href="https://xpression-c57ed.web.app/">🔴 Demo Link</a> 
     - Programming challenge that converts given math expression (string) into a tree and displays it to the end user
-  - <a href="https://github.com/osamu-kj/OpenRhythmic">OpenRhytmic</a>
-    - An open source rhythm game built on top of unity (C#)
   - <a href="https://github.com/osamu-kj/NetboxSimplified">Netbox Simplified</a>
     - Simplified version of Netbox that is intended for smaller network infrastructures and is not so "complex" and "huge"
   - <a href="https://github.com/osamu-kj/KernelDrivers">My Kernel Drivers</a>
