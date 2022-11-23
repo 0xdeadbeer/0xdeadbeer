@@ -1,5 +1,5 @@
 # Projects
->  - <b><a href="http:osamu-san.42web.io/">Personal Website</a> | <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a> | <a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
+>  - <b><a href="https://osamu-kj.github.io">Personal Website</a> | <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a> | <a href="https://osamu-kj.gitbook.io/it-for-fun/">IT for funn - Blog</a></b>
   - <a href="https://github.com/osamu-kj/opengl-experiments">OpenGL Experiments</a>
     - Challenges/Experiments for myself (loading 3d models into opengl from disk, illumination, small games, etc)
   - <a href="https://github.com/osamu-kj/0xdeadbeef">0xdeadbeef</a>
