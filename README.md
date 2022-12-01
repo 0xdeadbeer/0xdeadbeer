@@ -1,4 +1,3 @@
-
 ```python
 class Aboutme: 
   full_name = "Kevin J" 
@@ -21,3 +20,4 @@ class Aboutme:
  - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">Serenity OS</a>, <a href="https://github.com/elastic/elasticsearch">Elasticsearch</a>
  - 🧠 Some cool projects: <a href="https://github.com/osamu-kj/opengl-experiments">OpenGL Experiments</a>, <a href="https://github.com/osamu-kj/donut.c">Rewritten donut.c</a>, <a href="https://github.com/osamu-kj/netbox-simplified">Simplified Netbox</a>
 
+<img height="200" src="tryhackme-badge.png"/>
