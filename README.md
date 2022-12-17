@@ -17,6 +17,6 @@ class Aboutme:
 ```
 
  - 📬 More About me: <a href="https://osamu-kj.github.io/">Website</a>, <a href="https://tryhackme.com/p/Osamu">TryHackMe</a>, <a href="https://osamu-kj.gitbook.io/nerdz_corner/">Blog</a>, <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube</a> 
- - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">Serenity OS</a>, <a href="https://github.com/elastic/elasticsearch">Elasticsearch</a>
+ - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">Serenity OS</a>, <a href="https://github.com/ppy/osu">osu!</a>, <a href="https://github.com/elastic/elasticsearch">Elasticsearch</a>
  - 🧠 Some cool projects: <a href="https://github.com/osamu-kj/opengl-experiments">OpenGL Experiments</a>, <a href="https://github.com/osamu-kj/donut.c">Rewritten donut.c</a>, <a href="https://github.com/osamu-kj/netbox-simplified">Simplified Netbox</a>
 
