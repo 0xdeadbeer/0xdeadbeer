@@ -2,7 +2,7 @@
 class Aboutme: 
   full_name = "Kevin J" 
   country = "Slovenia"
-  languages = [🇸🇮, 🇮🇹, 🇺🇸, 🇷🇺, 🇯🇵]
+  languages = [🇸🇮, 🇮🇹, 🇺🇸]
   following = ["FOS Software", "UNIX Phylosophy"]
   
   def fetch_interests(self): 
