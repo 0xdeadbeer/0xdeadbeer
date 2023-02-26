@@ -1,8 +1,8 @@
 ```python
-class Aboutme: 
+class AboutMe: 
   full_name = "Kevin J" 
   country = "Slovenia"
-  languages = [🇸🇮, 🇮🇹, 🇺🇸]
+  languages = [🇸🇮, 🇮🇹, 🇺🇸, 🇯🇵]
   following = ["FOS Software", "UNIX Phylosophy"]
   
   def fetch_interests(self): 
@@ -13,11 +13,10 @@ class Aboutme:
     
   def programming_languages(self): 
     return ["c++", "c", "python", "javascript", "java"]
-
 ```
 
  - 📬 More About me: <a href="https://osamu-kj.github.io/">`Website`</a> <a href="https://tryhackme.com/p/Osamu">`TryHackMe`</a> <a href="https://osamu-kj.gitbook.io/nerdz_corner/">`Blog`</a> <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">`Youtube`</a> 
- - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">`Serenity OS`</a> <a href="https://github.com/elastic/elasticsearch">`Elasticsearch`</a>
- - 🎓 Learning: <a href="https://www.gtk.org/">`GTK`</a> <a href="https://learn.microsoft.com/en-us/windows/win32/learnwin32/learn-to-program-for-windows">`WinAPI`</a> <a href="https://www.elastic.co/what-is/elk-stack">`ELK Stack`</a> <a href="https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X">`Social Engineering: The science of human hacking`</a>
- - 🧠 Some cool projects: <a href="https://github.com/osamu-kj/pivoter-client">`Pivoter Malware`</a> <a href="https://github.com/osamu-kj/opengl-experiments">`OpenGL Experiments`</a> <a href="https://github.com/osamu-kj/donut.c">`Rewritten donut.c`</a>
+ - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">`Serenity OS`</a>
+ - 🎓 Learning: <a href="https://www.freebsd.org/">`FreeBSD`</a> <a href="https://changingminds.org/">`Psychology`</a> <a href="https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X">`Social Engineering`</a>
+ - 🧠 Some cool projects: <a href="https://github.com/osamu-kj/seekpeek">`Custom browser`</a> <a href="https://github.com/osamu-kj/studies">`Interesting Studies`</a> <a href="https://github.com/osamu-kj/opengl-experiments">`Graphics Playground`</a>
 
