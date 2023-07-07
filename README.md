@@ -17,7 +17,6 @@ class Profile:
 ```
 
  - 📬 More About me: <a href="https://0xdeadbeer.github.io/">`Website`</a> <a href="https://0xdeadbeer.neocities.org/">`Blog`</a> <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">`YouTube`</a> 
- - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">`Serenity OS`</a>
- - 🎓 Long-term Learning: <a href="https://changingminds.org/">`Psychology`</a> <a href="https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X">`Argumenting`</a>
+ - 💪 Supporting & contributing: <a href="https://github.com/serenityos/serenity">`Serenity OS`</a> 
  - ❤️ Some cool projects: <a href="https://github.com/0xdeadbeer/monr">`MonR`</a> <a href="https://github.com/0xdeadbeer/vis">`Vi Scheduler`</a> <a href="https://github.com/0xdeadbeer/studies">`Interesting Studies`</a>
 
