@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  My Favorite Projects: <code><a href="https://github.com/0xdeadbeer/function-renderer">function-renderer</a></code> <code><a href="https://github.com/0xdeadbeer/proxlib">proxlib</a></code> <code><a href="https://github.com/gravity">gravity</a></code> <code><a href="https://github.com/0xdeadbeer/vis">vis</a></code>
+  Favorite Projects: <code><a href="https://github.com/0xdeadbeer/newtons-eye">newtons-eye</a></code> <code><a href="https://github.com/0xdeadbeer/function-renderer">function-renderer</a></code> <code><a href="https://github.com/0xdeadbeer/proxlib">proxlib</a></code> <code><a href="https://github.com/gravity">gravity</a></code>
 </p>
